@@ -5,13 +5,13 @@ import { Avatar } from './Avatar';
 export function Comment(){
     return(
         <div className={styles.comment}>
-            <Avatar hasBorder={false} src="https://github.com/diego3g.png"/>
+            <Avatar hasBorder={false} src="https://clubcupons.com.br/wp-content/uploads/2023/07/jessyka.jpg"/>
                
         <div className={styles.commentBox}>
             <div className={styles.commentContent} >
                 <header>
                     <div className={styles.authorAndTime}>
-                        <strong>Diego Fernandes</strong>
+                        <strong>Jessyka Monyka</strong>
                         <time title= "30 de junho as 09:00h "dateTime='23-06-30 09:00:00'>Cerca de 1h atrás</time>
                     </div>
 
@@ -19,7 +19,7 @@ export function Comment(){
                     <Trash size={24}/>
                     </button>
                 </header>
-                <p>Muito bom Gabriel, Parabéns!! </p>
+                <p>Muito bem Thaís, Parabéns!! </p>
             </div>
             
             <footer>

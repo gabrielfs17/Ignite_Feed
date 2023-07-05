@@ -12,10 +12,10 @@ export function Sidebar(){
         />
         
         <div className={styles.profile}>
-            <Avatar src="https://github.com/gabrielfs17.png"/>
+            <Avatar src="https://clubcupons.com.br/wp-content/uploads/2023/07/thais.jpg"/>
         
-        <strong>Gabriel Freitas</strong>
-        <span>Desenvolvedor FullStack</span>
+        <strong>Thaís Rodrigues</strong>
+        <span>Professora</span>
         </div>
 
         <footer>
