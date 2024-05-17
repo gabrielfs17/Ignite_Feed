@@ -25,7 +25,7 @@ const posts =[
   {
     id:1,
     author:{
-      authorUrl:'https://clubcupons.com.br/wp-content/uploads/2023/07/thais.jpg',
+      authorUrl:'https://img.freepik.com/fotos-gratis/retrato-de-jovem-modelo-feminino_23-2149084943.jpg?t=st=1715975536~exp=1715979136~hmac=b4ee00fb05ed136015e69ffa074327fdbf9c6f22ed520e372c4fe7ce04395fb1&w=360',
       name: 'Thaís Rodrigues',
       role: 'Professora'
     },

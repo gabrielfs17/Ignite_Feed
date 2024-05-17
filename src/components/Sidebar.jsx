@@ -12,7 +12,7 @@ export function Sidebar(){
         />
         
         <div className={styles.profile}>
-            <Avatar src="https://clubcupons.com.br/wp-content/uploads/2023/07/thais.jpg"/>
+            <Avatar src="https://img.freepik.com/fotos-gratis/retrato-de-jovem-modelo-feminino_23-2149084943.jpg?t=st=1715975536~exp=1715979136~hmac=b4ee00fb05ed136015e69ffa074327fdbf9c6f22ed520e372c4fe7ce04395fb1&w=360"/>
         
         <strong>Thaís Rodrigues</strong>
         <span>Professora</span>
