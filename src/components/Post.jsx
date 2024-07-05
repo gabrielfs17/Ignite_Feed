@@ -38,7 +38,7 @@ export function Post({author, publishedAt, content}){
             })}
             </div>
             <form className={styles.commentForm}>
-                <strong>Deixe seu feedback</strong>
+                <strong>Comentar</strong>
 
                 <textarea placeholder='Deixe um comentário aqui'
                 />

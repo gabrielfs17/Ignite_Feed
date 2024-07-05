@@ -12,20 +12,20 @@ export function Comment(){
                 <header>
                     <div className={styles.authorAndTime}>
                         <strong>Gabriel Freitas</strong>
-                        <time title= "30 de junho as 09:00h "dateTime='23-06-30 09:00:00'>Cerca de 1h atrás</time>
+                        <time title= "30 de junho as 09:00h "dateTime='23-06-30 09:00:00'>Cerca de 5 minutos atrás</time>
                     </div>
 
                     <button title='Deletar comentário'>
                     <Trash size={24}/>
                     </button>
                 </header>
-                <p>Muito bem Thaís, Parabéns!! </p>
+                <p>Obrigado por avisar!! </p>
             </div>
             
             <footer>
                 <button>
                     <ThumbsUp />
-                    Aplaudir <span>25</span>
+                    Curtidas <span>50</span>
                 </button>
             </footer>
 

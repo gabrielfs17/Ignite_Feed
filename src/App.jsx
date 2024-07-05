@@ -25,16 +25,16 @@ const posts =[
   {
     id:1,
     author:{
-      authorUrl:'https://img.freepik.com/fotos-gratis/retrato-de-jovem-modelo-feminino_23-2149084943.jpg?t=st=1715975536~exp=1715979136~hmac=b4ee00fb05ed136015e69ffa074327fdbf9c6f22ed520e372c4fe7ce04395fb1&w=360',
+      authorUrl:'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.2885-19/414717906_907040287468457_2851506861703981290_n.jpg?_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=fOs9VBY4XskQ7kNvgFljHYi&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBtUX6Ouv8PNWA4uzYdR_B5Wmkb6s7JkFc2lzPCh4DidQ&oe=668DD3FE&_nc_sid=8f1549',
       name: 'Thaís Rodrigues',
       role: 'Professora'
     },
     content: [
       { type: 'paragraph', content: 'Olá alunos 👋',},
-      { type: 'paragraph', content: 'Minhas atividades e provas do 2º bimestre foram corrigidas'},
-      { type: 'link', content: 'thaisrodeigues3055@gmail.com'},
+      { type: 'paragraph', content: 'As notas das provas do 2º bimestre foram lançadas no portal do aluno'},
+      { type: 'link', content: 'thais@gftech.dev.br'},
     ],
-    publishedAt: new Date('2023-07-01 13:00:00')
+    publishedAt: new Date('2024-07-05 13:20:00')
   }
 ]
 export function App() {
