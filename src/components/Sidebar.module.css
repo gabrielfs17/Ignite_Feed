@@ -59,3 +59,45 @@
     background: var(--green-500);
     color: var(--white);
 }
+
+._ar44 {
+    -webkit-text-size-adjust: 100%
+}
+
+._ar44,._ar45 {
+    height: 100%
+}
+
+._ar45 {
+    background: rgb(var(--ig-primary-background));
+    color: rgb(var(--ig-primary-text));
+    font-family: var(--font-family-system);
+    font-size: var(--system-14-font-size);
+    line-height: var(--system-14-line-height);
+    margin: 0
+}
+
+._ar44 ._ar45 {
+    overflow-y: visible!important
+}
+
+._ar45:fullscreen {
+    height: 100%;
+    width: 100%
+}
+
+._ar44.js-focus-visible :focus:not([data-focus-visible-added]),._ar44 .js-focus-visible :focus:not([data-focus-visible-added]) {
+    outline: none
+}
+
+#bootloader_BBAm9r7 {
+    height: 42px;
+}
+
+.bootloader_BBAm9r7 {
+    display: block!important;
+}
+
+
+
+

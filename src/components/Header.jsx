@@ -5,8 +5,8 @@ import igniteLogo from '../assets/ignite-logo.svg'
 export function Header(){
    return(
     <header className={styles.header}>
-      <img src={igniteLogo} alt="Logotipo do ignite"/>
-        <strong> Rede Social | Reforço Escolar</strong> 
+      <img src={igniteLogo} alt="Logotipo Reforço Esccolar"/>
+        <strong> Reforço Escolar</strong> 
     </header>
     
    ); 

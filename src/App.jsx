@@ -25,7 +25,7 @@ const posts =[
   {
     id:1,
     author:{
-      authorUrl:'https://instagram.ffor3-2.fna.fbcdn.net/v/t51.2885-19/414717906_907040287468457_2851506861703981290_n.jpg?_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=fOs9VBY4XskQ7kNvgFljHYi&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBtUX6Ouv8PNWA4uzYdR_B5Wmkb6s7JkFc2lzPCh4DidQ&oe=668DD3FE&_nc_sid=8f1549',
+      authorUrl:'https://crm.gftech.dev.br/media/414717906_907040287468457_2851506861703981290_n.jpg',
       name: 'Thaís Rodrigues',
       role: 'Professora'
     },

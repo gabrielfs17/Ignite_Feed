@@ -30,8 +30,13 @@ export function Comment(){
             </footer>
 
         </div>
+        
 
         </div>
+
+        
     
     )
+
+    
 }
