@@ -8,7 +8,7 @@ export function Sidebar(){
         <aside className={styles.sidebar}>
         <img 
         className={styles.cover}
-        src="https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=40"
+        src="https://instagram.ffor3-2.fna.fbcdn.net/v/t51.2885-19/414717906_907040287468457_2851506861703981290_n.jpg?_nc_ht=instagram.ffor3-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=fOs9VBY4XskQ7kNvgFljHYi&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYBtUX6Ouv8PNWA4uzYdR_B5Wmkb6s7JkFc2lzPCh4DidQ&oe=668DD3FE&_nc_sid=8f1549"
         />
         
         <div className={styles.profile}>
@@ -21,7 +21,7 @@ export function Sidebar(){
         <footer>
             <a href="#">
                 <PencilLine/>
-                Editar conta
+                Perfil
             </a>
         </footer>
         </aside>
