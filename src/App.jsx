@@ -1,3 +1,21 @@
+/* eslint-disable react/jsx-tag-spacing */
+/* eslint-disable indent */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable linebreak-style */
+/* eslint-disable comma-dangle */
+/* eslint-disable key-spacing */
+/* eslint-disable linebreak-style */
+/* eslint-disable max-len */
+/* eslint-disable linebreak-style */
+/* eslint-disable semi */
+/* eslint-disable space-infix-ops */
+/* eslint-disable linebreak-style */
+/* eslint-disable quotes */
+/* eslint-disable linebreak-style */
+/* eslint-disable object-curly-spacing */
+/* eslint-disable linebreak-style */
+/* eslint-disable spaced-comment */
+/* eslint-disable linebreak-style */
 //Routers
 import {Header} from "./components/Header"
 import {Post} from "./components/Post"
@@ -37,6 +55,7 @@ const posts =[
     publishedAt: new Date('2024-07-05 13:20:00')
   }
 ]
+// eslint-disable-next-line import/prefer-default-export
 export function App() {
   return (
     <div>
